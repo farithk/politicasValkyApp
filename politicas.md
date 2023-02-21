@@ -116,7 +116,7 @@ NIT: 1.075.284.790 - 2
 
 Dirección: Calle 54 No. 9 - 28
 
-Correo electrónico: andre.c94@hotmail.com
+Correo electrónico: valkybox.com@gmail.com
 
 Teléfono: (+57) 314 397 5576
 
@@ -217,14 +217,13 @@ Las bases de datos responsabilidad de la Comerciante serán objeto de tratamient
 
 Los derechos de los titulares respecto a la protección de sus datos personales están establecidos en la Ley y corresponden a la consulta, acceso y/o suministro de información, prueba de autorización para el tratamiento de sus datos y reclamaciones. Estos derechos podrán ser exigidos por el Titular, sus causahabientes o representantes y/o apoderados legales, debidamente acreditados.
 
-La Comerciante gestionará de manera gratuita las consultas y reclamaciones realizadas por los titulares. El Oficial de protección de datos de la Comerciante será el encargado de la atención de peticiones, consultas y reclamos y puede ser contactado en la dirección Calle 54 No. 9 - 28 y/o en el correo electrónico: andre.c94@hotmail.com
+La Comerciante gestionará de manera gratuita las consultas y reclamaciones realizadas por los titulares. El Oficial de protección de datos de la Comerciante será el encargado de la atención de peticiones, consultas y reclamos y puede ser contactado en la dirección Calle 54 No. 9 - 28 y/o en el correo electrónico: valkybox.com@gmail.com
 
 Una vez agotados los trámites de consulta o reclamo, el Titular, causahabiente, representante y/o apoderado legal podrá elevar quejas ante la Superintendencia de Industria y Comercio.
 
 6.1 Consultas, acceso y suministro de información
 
-El Titular de los datos podrá realizar su consulta a la Comerciante por los siguientes canales: correo electrónico andre.c94@hotmail.com indicando en el asunto la solicitud; en la sección de Contáctenos de nuestra página web www.valkybox.com
-o en la Pestaña de “VALKY App” denominada XXXX.
+El Titular de los datos podrá realizar su consulta a la Comerciante por los siguientes canales: correo electrónico valkybox.com@gmail.com indicando en el asunto la solicitud; en la sección de Contáctenos de nuestra página web www.valkybox.com, o en la sección de "Cuenta de Usuario" de “VALKY App”.
 
 La solicitud deberá tener los siguientes datos:
 
@@ -242,8 +241,7 @@ De acuerdo con lo establecido en la Ley, el término de la Comerciante para reso
 
 En el tratamiento de los datos se distinguen en principio cuatro tipos de reclamos: Reclamo de corrección, reclamo de supresión, reclamo de revocación y reclamo de infracción, los cuales se encuentran definidos en el numeral 3 del presente documento.
 
-El Titular de los datos podrá realizar su reclamo a la Comerciante por los siguientes canales: correo electrónico andre.c94@hotmail.com indicando en el asunto la solicitud; en la sección de Contáctenos de nuestra página web www.valkybox.com
-o en la Pestaña de “VALKY App” denominada XXXX.
+El Titular de los datos podrá realizar su reclamo a la Comerciante por los siguientes canales: correo electrónico valkybox.com@gmail.com indicando en el asunto la solicitud; en la sección de Contáctenos de nuestra página web www.valkybox.com, o en la sección de "Cuenta de Usuario" de “VALKY App”.
 
 La solicitud deberá tener los siguientes datos:
 
@@ -275,4 +273,4 @@ En cumplimiento de la Ley Estatutaria 1581 de 2012 y normas concordantes, el pre
 
 3. La política de tratamiento de los datos del Titular, así como los cambios sustanciales que se produzcan en ésta, se podrán consultar en la página web www.valkybox.com o en la “VALKY App”.
 
-4. El Titular puede ejercitar los derechos de acceso, corrección, supresión, revocación o reclamo por infracción sobre sus datos con un escrito dirigido a la Comerciante a la dirección de correo electrónico andre.c94@hotmail.com en el asunto el derecho que desea ejercitar; o mediante correo postal remitido a Calle 54 No. 9 – 28.
+4. El Titular puede ejercitar los derechos de acceso, corrección, supresión, revocación o reclamo por infracción sobre sus datos con un escrito dirigido a la Comerciante a la dirección de correo electrónico valkybox.com.c94@gmail.com en el asunto el derecho que desea ejercitar; o mediante correo postal remitido a Calle 54 No. 9 – 28.
