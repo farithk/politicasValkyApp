@@ -269,8 +269,8 @@ En cumplimiento de la Ley Estatutaria 1581 de 2012 y normas concordantes, el pre
 
 1. ANDREA CAROLINA OLAYA GUTIÉRREZ (en adelante la Comerciante) identificada con el NIT 1.075.284.790-2, será el responsable del tratamiento de sus datos personales.
 
-2. Con objeto de recibir una atención integral como cliente, los datos personales recabados serán tratados con las siguientes finalidades: fidelización de clientes, marketing, prospección comercial publicidad propia, segmentación de mercados, gestión de clientes.
+2. Con objeto de recibir una atención integral como cliente, los datos personales recabados serán tratados con las siguientes finalidades: fidelización de clientes, marketing, prospección comercial publicidad propia, segmentación de mercados, gestión de clientes. 
 
 3. La política de tratamiento de los datos del Titular, así como los cambios sustanciales que se produzcan en ésta, se podrán consultar en la página web www.valkybox.com o en la “VALKY App”.
 
-4. El Titular puede ejercitar los derechos de acceso, corrección, supresión, revocación o reclamo por infracción sobre sus datos con un escrito dirigido a la Comerciante a la dirección de correo electrónico valkybox.com.c94@gmail.com en el asunto el derecho que desea ejercitar; o mediante correo postal remitido a Calle 54 No. 9 – 28.
+4. El Titular puede ejercitar los derechos de acceso, corrección, supresión, revocación o reclamo por infracción sobre sus datos con un escrito dirigido a la Comerciante a la dirección de correo electrónico valkybox.com@gmail.com en el asunto el derecho que desea ejercitar; o mediante correo postal remitido a Calle 54 No. 9 – 28.
